@@ -4,9 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=B69CDE&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%E2%9C%A8;Python+%C3%97+SQL+%C3%97+AI%2FML+%F0%9F%8C%B8;Forecasting%2C+analysis%2C+and+a+bit+of+IoT+on+the+side+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=2000&color=B69CDE&center=true&vCenter=true&width=560&height=60&lines=MANNA+SARA+BILU" />
 
-# 🎀 Manna Sara Bilu
+<img width="140" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="cute pixel-style coding girl avatar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=22&pause=1300&color=B69CDE&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%E2%9C%A8;Python+%C3%97+SQL+%C3%97+AI%2FML+%F0%9F%8C%B8;Forecasting%2C+analysis%2C+and+a+bit+of+IoT+on+the+side+%F0%9F%8C%99" />
 
 **Data Analyst** · Python · SQL · AI/ML · Time-Series Forecasting
 
