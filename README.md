@@ -1,7 +1,7 @@
 <!-- ══════════════════════════════════════════════════════════
      MANNA SARA BILU — GitHub Profile README
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=B69CDE&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%E2%9C%A8;Python+%C3%97+SQL+%C3%97+AI%2FML+%F0%9F%8C%B8;Forecasting%2C+analysis%2C+and+a+bit+of+IoT+on+the+side+%F0%9F%8C%99" />
+
 <img src="./assets/name_pixel.png" alt="Manna Sara Bilu" />
 Data Analyst · Python · SQL · AI/ML · Time-Series Forecasting
 📍 Nagpur, Maharashtra, India  ·  📫 mannasarabilu@gmail.com
