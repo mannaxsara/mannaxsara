@@ -1,31 +1,48 @@
 <!-- ══════════════════════════════════════════════════════════
      MANNA SARA BILU — GitHub Profile README
+     ══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<img width="140" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="cute pixel-style coding girl avatar" />
-<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=22&pause=1300&color=B69CDE&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%E2%9C%A8;Python+%C3%97+SQL+%C3%97+AI%2FML+%F0%9F%8C%B8;Forecasting%2C+analysis%2C+and+a+bit+of+IoT+on+the+side+%F0%9F%8C%99" />
-Data Analyst · Python · SQL · AI/ML · Time-Series Forecasting
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=B69CDE&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%E2%9C%A8;Python+%C3%97+SQL+%C3%97+AI%2FML+%F0%9F%8C%B8;Forecasting%2C+analysis%2C+and+a+bit+of+IoT+on+the+side+%F0%9F%8C%99" />
+
 <img src="./assets/name_pixel.png" alt="Manna Sara Bilu" />
-📍 Nagpur, Maharashtra, India  ·  📫 mannasarabilu@gmail.com
+
+**Data Analyst** · Python · SQL · AI/ML · Time-Series Forecasting
+
+📍 Nagpur, Maharashtra, India&nbsp;&nbsp;·&nbsp;&nbsp;📫 [mannasarabilu@gmail.com](mailto:mannasarabilu@gmail.com)
+
 <a href="mailto:mannasarabilu@gmail.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=6B4E71"/></a>
 <a href="https://www.linkedin.com/in/manna-sara-bilu-5979262b0/"><img src="https://img.shields.io/badge/LinkedIn-B8E6D5?style=for-the-badge&logo=linkedin&logoColor=2E5C4F"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-C8B6FF?style=for-the-badge&logo=vercel&logoColor=4A3B70"/></a>
+
 </div>
+
 <br>
-🪶 About Me
+
+## 🪶 About Me
+
 Data enthusiast with hands-on experience across analytics internships, research, and event technology leadership. I like working with real datasets, real experiments, and real forecasting problems — not just tutorials 🌸
-📊 Currently Event Technology Specialist at ACM (Association for Computing Machinery)
-📈 Comfortable with time-series forecasting using Prophet
-🔬 Background in IoT research, applied through a remote-lab platform at IIIT Hyderabad
-🎯 Open to data analytics & AI/ML opportunities
+
+- 📊 Currently **Event Technology Specialist** at ACM (Association for Computing Machinery)
+- 📈 Comfortable with time-series forecasting using **Prophet**
+- 🔬 Background in IoT research, applied through a remote-lab platform at IIIT Hyderabad
+- 🎯 Open to data analytics & AI/ML opportunities
+
 <br>
-💼 Experience
+
+## 💼 Experience
+
 <table>
 <tr><td width="220">🎪 <b>Event Technology Specialist</b><br>ACM</td><td>Aug 2025 – Present</td></tr>
 <tr><td>🏭 <b>Trainee Data Analyst</b><br>Bhilai Steel Plant, SAIL</td><td>Jun 2026 · Bhilai</td></tr>
 <tr><td>🔬 <b>Research Intern</b><br>IIIT Hyderabad</td><td>Jun 2025 · Hyderabad<br><sub>Worked on RLabs, an IoT-based remote lab platform enabling real-time physical experiments through the browser.</sub></td></tr>
 </table>
+
 <br>
-🧰 Tech Stack
+
+## 🧰 Tech Stack
+
 <table>
 <tr>
 <td width="140">💻 <b>Languages</b></td>
@@ -75,8 +92,11 @@ Data enthusiast with hands-on experience across analytics internships, research,
 </td>
 </tr>
 </table>
+
 <br>
-🚀 Featured Project
+
+## 🚀 Featured Project
+
 <table>
 <tr>
 <td width="200">🌟 <b>BSP-Inventory-Optimizer</b></td>
@@ -85,16 +105,25 @@ Data enthusiast with hands-on experience across analytics internships, research,
 <td width="80"><a href="https://github.com/mannaxsara/BSP-Inventory-Optimizer">↗ repo</a></td>
 </tr>
 </table>
+
 > 🚧 More projects on the way — this list is growing 🌱
+
 <br>
-🎓 Education & Certifications
-🏫 Delhi Public School — India
-🏅 Google Advanced Data Analytics
-🏅 Google Data Analytics
-🏅 ACM-W Coding Contest
-🏅 College Research Affiliate Program — IoT
-🏅 One-Month Internship, IIIT Hyderabad
+
+## 🎓 Education & Certifications
+
+**🏫 Delhi Public School — India**
+
+- 🏅 Google Advanced Data Analytics
+- 🏅 Google Data Analytics
+- 🏅 ACM-W Coding Contest
+- 🏅 College Research Affiliate Program — IoT
+- 🏅 One-Month Internship, IIIT Hyderabad
+
 <br>
+
 <div align="center">
+
 <sub>Thanks for stopping by 💌🌷</sub>
+
 </div>
