@@ -6,14 +6,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=B69CDE&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%E2%9C%A8;Python+%C3%97+SQL+%C3%97+AI%2FML+%F0%9F%8C%B8;Forecasting%2C+analysis%2C+and+a+bit+of+IoT+on+the+side+%F0%9F%8C%99" />
 
-# 🎀 Manna Sara Bilu
+<img src="assets/name_pixel.png" alt="Manna Sara Bilu" />
 
 **Data Analyst** · Python · SQL · AI/ML · Time-Series Forecasting
 
 📍 Nagpur, Maharashtra, India&nbsp;&nbsp;·&nbsp;&nbsp;📫 [mannasarabilu@gmail.com](mailto:mannasarabilu@gmail.com)
 
 <a href="mailto:mannasarabilu@gmail.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=6B4E71"/></a>
-<a href="https://www.linkedin.com/in/manna-sara-bilu-5979262b0/"><img src="https://img.shields.io/badge/LinkedIn-B8E6D5?style=for-the-badge&logo=linkedin&logoColor=2E5C4F"/></a>
+<a href="https://www.linkedin.com/in/mannasarabilu/"><img src="https://img.shields.io/badge/LinkedIn-B8E6D5?style=for-the-badge&logo=linkedin&logoColor=2E5C4F"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-C8B6FF?style=for-the-badge&logo=vercel&logoColor=4A3B70"/></a>
 
 </div>
@@ -107,18 +107,6 @@ Data enthusiast with hands-on experience across analytics internships, research,
 </table>
 
 > 🚧 More projects on the way — this list is growing 🌱
-
-<br>
-
-## 🎓 Education & Certifications
-
-**🏫 Delhi Public School — India**
-
-- 🏅 Google Advanced Data Analytics
-- 🏅 Google Data Analytics
-- 🏅 ACM-W Coding Contest
-- 🏅 College Research Affiliate Program — IoT
-- 🏅 One-Month Internship, IIIT Hyderabad
 
 <br>
 
