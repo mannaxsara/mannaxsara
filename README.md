@@ -49,7 +49,6 @@ Data enthusiast with hands-on experience across analytics internships, research,
 <td>
 <img src="https://img.shields.io/badge/Python-FFD6E8?style=flat-square&logo=python&logoColor=6B4E71"/>
 <img src="https://img.shields.io/badge/SQL-B8E6D5?style=flat-square&logo=mysql&logoColor=2E5C4F"/>
-<img src="https://img.shields.io/badge/R-C8B6FF?style=flat-square&logo=r&logoColor=4A3B70"/>
 </td>
 </tr>
 <tr>
