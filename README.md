@@ -117,11 +117,3 @@ Data enthusiast with hands-on experience across analytics internships, research,
 
 </div>
 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="25" /> Vibing to
-
-<p align="center">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n23wbprs6s2yhv4abggycikwme&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"
-  />
-</p>  
