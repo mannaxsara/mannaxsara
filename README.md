@@ -103,8 +103,13 @@ Data enthusiast with hands-on experience across analytics internships, research,
 <td width="90"><code>Python</code></td>
 <td width="80"><a href="https://github.com/mannaxsara/BSP-Inventory-Optimizer">↗ repo</a></td>
 </tr>
+<tr>
+<td width="200">🌟 <b>DetectiveAI</b></td>
+<td>DetectiveAI is an autonomous business intelligence and data analyst assistant.</td>
+<td width="90"><code>Python</code></td>
+<td width="80"><a href="https://github.com/mannaxsara/detective-ai">↗ repo</a></td>
+</tr>
 </table>
-
 
 
 > 🚧 More projects on the way — this list is growing 🌱
