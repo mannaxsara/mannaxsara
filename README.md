@@ -14,36 +14,31 @@
 
 <br>
 
-## 🪶 About Me
+## About Me ~
 
-I’m a Computer Engineering student who enjoys turning messy data into something useful — whether that means finding patterns, forecasting what comes next, building ML systems, or creating tools around real-world data.
+I’m a Computer Engineering student fascinated by **data, AI, and the patterns hidden behind the world around us**.
 
-I like working on projects where **data meets engineering**: real datasets, measurable problems, and systems that do more than just demonstrate a concept. 🌸
+I enjoy exploring data, building ML systems, and learning by creating things that solve real problems. I’m especially interested in where **data, technology, and human behaviour** intersect.
 
-- 📊 Currently **Event Technology Specialist** at ACM (Association for Computing Machinery)
-- 📈 Interested in **Data Analytics, Data Science & AI/ML**
-- 🔮 Hands-on experience with **time-series forecasting, predictive modeling & data analysis**
-- 🧠 Building projects around **customer retention, business intelligence & computer vision**
-- 📡 Background in **IoT research and real-time sensor systems**
-- 🎯 Open to opportunities in **Data Analytics, Data Science, AI/ML & software engineering**
+Numbers fascinate me. People intrigue me. Problems challenge me. Learning keeps me going.
 
 <br>
 
-## 💼 Experience
+## Experience ~
 
 <table>
 <tr>
-<td width="220">🎪 <b>Event Technology Specialist</b><br>ACM</td>
+<td width="220"><b>Event Technology Specialist</b><br>ACM</td>
 <td>Aug 2025 – Present</td>
 </tr>
 
 <tr>
-<td>🏭 <b>Trainee Data Analyst</b><br>Bhilai Steel Plant, SAIL</td>
+<td><b>Trainee Data Analyst</b><br>Bhilai Steel Plant, SAIL</td>
 <td>Jun 2026 · Bhilai</td>
 </tr>
 
 <tr>
-<td>🔬 <b>Research Intern</b><br>IIIT Hyderabad</td>
+<td> <b>Research Intern</b><br>IIIT Hyderabad</td>
 <td>
 Jun 2025 · Hyderabad<br>
 <sub>Worked on RLabs, an IoT-based remote laboratory platform enabling real-time physical experiments through the browser.</sub>
@@ -53,12 +48,12 @@ Jun 2025 · Hyderabad<br>
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack ~
 
 <table>
 
 <tr>
-<td width="140">💻 <b>Languages</b></td>
+<td width="140"><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-FFD6E8?style=flat-square&logo=python&logoColor=6B4E71"/>
 <img src="https://img.shields.io/badge/SQL-B8E6D5?style=flat-square&logo=mysql&logoColor=2E5C4F"/>
@@ -67,7 +62,7 @@ Jun 2025 · Hyderabad<br>
 </tr>
 
 <tr>
-<td>🧠 <b>Data & ML</b></td>
+<td><b>Data & ML</b></td>
 <td>
 <img src="https://img.shields.io/badge/Pandas-FFDAC1?style=flat-square&logo=pandas&logoColor=7A4B22"/>
 <img src="https://img.shields.io/badge/NumPy-A8D8EA?style=flat-square&logo=numpy&logoColor=1F5A6E"/>
@@ -78,7 +73,7 @@ Jun 2025 · Hyderabad<br>
 </tr>
 
 <tr>
-<td>📊 <b>Visualization</b></td>
+<td><b>Visualization</b></td>
 <td>
 <img src="https://img.shields.io/badge/Tableau-B8E6D5?style=flat-square&logo=tableau&logoColor=2E5C4F"/>
 <img src="https://img.shields.io/badge/Excel-FFDAC1?style=flat-square&logo=microsoftexcel&logoColor=7A4B22"/>
@@ -87,7 +82,7 @@ Jun 2025 · Hyderabad<br>
 </tr>
 
 <tr>
-<td>🗄️ <b>Databases</b></td>
+<td><b>Databases</b></td>
 <td>
 <img src="https://img.shields.io/badge/MySQL-FFD6E8?style=flat-square&logo=mysql&logoColor=6B4E71"/>
 <img src="https://img.shields.io/badge/PostgreSQL-B8E6D5?style=flat-square&logo=postgresql&logoColor=2E5C4F"/>
@@ -96,7 +91,7 @@ Jun 2025 · Hyderabad<br>
 </tr>
 
 <tr>
-<td>🛠️ <b>Tools</b></td>
+<td><b>Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-A8D8EA?style=flat-square&logo=git&logoColor=1F5A6E"/>
 <img src="https://img.shields.io/badge/GitHub-C8B6FF?style=flat-square&logo=github&logoColor=4A3B70"/>
@@ -106,7 +101,7 @@ Jun 2025 · Hyderabad<br>
 </tr>
 
 <tr>
-<td>📡 <b>IoT</b></td>
+<td><b>IoT</b></td>
 <td>
 <img src="https://img.shields.io/badge/Arduino-B8E6D5?style=flat-square&logo=arduino&logoColor=2E5C4F"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-FFDAC1?style=flat-square&logo=raspberrypi&logoColor=7A4B22"/>
@@ -115,7 +110,7 @@ Jun 2025 · Hyderabad<br>
 </tr>
 
 <tr>
-<td>✨ <b>Concepts</b></td>
+<td><b>Concepts</b></td>
 <td>
 <img src="https://img.shields.io/badge/Data%20Analysis-C8B6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI%2FML-FFD6E8?style=flat-square"/>
@@ -128,7 +123,7 @@ Jun 2025 · Hyderabad<br>
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects ~
 
 <table>
 
@@ -169,7 +164,7 @@ Jun 2025 · Hyderabad<br>
 
 </table>
 
-> 🚧 More projects on the way — this list is growing 🌱
+> 🚧 More projects on the way — this list is growing 
 
 <br>
 
